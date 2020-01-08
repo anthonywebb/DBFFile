@@ -1,6 +1,6 @@
 {
-  "name": "dbffile-float",
-  "version": "0.7.3",
+  "name": "dbffile-expanded",
+  "version": "0.0.1",
   "description": "",
   "main": "built/dbf-file.js",
   "typings": "built/dbf-file.d.ts",
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/paypac/DBFFile.git"
+    "url": "https://github.com/anthonywebb/DBFFile.git"
   },
   "keywords": [
     "dbf",
